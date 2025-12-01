@@ -36,6 +36,14 @@ Develop a modern data warehouse on Databricks to consolidate sales data, enablin
 - **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+![Data Flow](docs/data_flow.png)
+
+Relationships between tables:
+![Data Flow](docs/data_integration.png)
+
+Data Modelling on Gold Layer:
+![Data Flow](docs/data_model.png)
+
 
 ---
 
